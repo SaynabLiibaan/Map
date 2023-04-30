@@ -1,0 +1,40 @@
+.primary-background{
+    /*-fx-background-color:#feb0be;*/
+    -fx-background-color:rgb(254,176,190,0.5);
+}
+
+.gradient-background{
+    -fx-background-color: linear-gradient(#f598c0, #6ee3c7);
+}
+
+.search-box{
+    -fx-background-color:#FFFFFF;
+    -fx-background-radius: 100;
+}
+
+.transparent{
+    -fx-background-color:rgba(0,0,0,0);
+}
+
+.icons{
+    -fx-background-color:#FFFFFF;
+    -fx-background-radius: 100;
+}
+
+.icons:hover{
+    -fx-background-color:rgb(254,176,190,1);
+}
+
+.clicked-icons{
+    -fx-background-color:rgb(254,176,190,1);
+    -fx-background-radius: 100;
+}
+
+.font {
+    -fx-font-file: "BrunoAce-Regular.ttf";
+    /*-fx-font-family: "Bruno Ace";*/
+}
+
+.vbox {
+    -fx-background-radius: 40;
+}
